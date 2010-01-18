@@ -1,0 +1,14 @@
+gEDA/gattrib version 1.4.0.20080127
+gEDA/gattrib comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Read system-gafrc file [/etc/gEDA/system-gafrc]
+Read ~/.gEDA/gafrc file [/home/benjo/.gEDA/gafrc]
+Did not find optional local gafrc file [/home/benjo/geda/projects/garage/gafrc]
+Read system-gattribrc file [/etc/gEDA/system-gattribrc]
+Did not find optional ~/.gEDA/gattribrc file [/home/benjo/.gEDA/gattribrc]
+Did not find optional local gattribrc file [/home/benjo/geda/projects/garage/gattribrc]
+Loading file [/home/benjo/geda/projects/garage/garage_opener.sch]
+Konnte die angegebene gafrc-Datei [/home/benjo/geda/projects/garage/gafrc] nicht finden
+Gespeichert [/home/benjo/geda/projects/garage/garage_opener.sch]

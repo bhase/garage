@@ -1,0 +1,20 @@
+gEDA/gschem Version 1.4.0.20080127
+gEDA/gschem kommt OHNE JEGLICHE GARANTIE. Bitte lies die Datei COPYING fürnähere Informationen.
+Dies ist Freie Software. Sie darf gerne weitergegeben werden. Bitte lies die
+Lizenzbestimmungen in der Datei COPYING für nähere Informationen.
+
+Lese die Systemdatei gafrc [/etc/gEDA/system-gafrc]
+Konnte die optionale ~/.gEDA/gafrc-Datei [/home/benjo/.gEDA] nicht finden
+Konnte die optionale lokale gafrc-Datei [/home/benjo/projects/garage/hw/gafrc] nicht finden
+Lese die Systemdatei gschemrc [/etc/gEDA/system-gschemrc]
+Konnte die optionale ~/.gEDA/gschemrc-Datei [/home/benjo/.gEDA] nicht finden
+Konnte die optionale lokale gschemrc-Datei [/home/benjo/projects/garage/hw/gschemrc] nicht finden
+Lese init scm Datei [/usr/share/gEDA/scheme/gschem.scm]
+Lade Schaltplan [/home/benjo/projects/garage/hw/garage_opener.sch]
+Konnte die angegebene gafrc-Datei [/home/benjo/projects/garage/hw/gafrc] nicht finden
+Das Bauteil [L6203-1.sym] konnte nicht in der Bauteilbibliothek gefunden werden
+Das Bauteil [agnd-1.sym] konnte nicht in der Bauteilbibliothek gefunden werden
+Das Bauteil [avcc-1.sym] konnte nicht in der Bauteilbibliothek gefunden werden
+Das Bauteil [agnd-1.sym] konnte nicht in der Bauteilbibliothek gefunden werden
+Das Bauteil [avcc-1.sym] konnte nicht in der Bauteilbibliothek gefunden werden
+Das Bauteil [agnd-1.sym] konnte nicht in der Bauteilbibliothek gefunden werden

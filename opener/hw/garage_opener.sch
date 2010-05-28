@@ -755,7 +755,7 @@ C 25300 36800 1 0 0 in-1.sym
 T 25300 37100 5 10 0 0 0 0 1
 device=INPUT
 T 25400 37000 5 10 0 1 0 0 1
-refdes=INT0
+refdes=INT01
 T 25500 37000 5 10 1 1 0 0 1
 netname=INT0
 }
@@ -873,7 +873,7 @@ C 23800 40500 1 0 0 in-1.sym
 T 23800 40800 5 10 0 0 0 0 1
 device=INPUT
 T 23900 40700 5 10 0 1 0 0 1
-refdes=RES
+refdes=RES1
 T 24000 40700 5 10 1 1 0 0 1
 netname=RES
 }

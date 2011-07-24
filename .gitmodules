@@ -1,0 +1,6 @@
+[submodule "opener/hw/sym"]
+	path = opener/hw/sym
+	url = git@github.com:bhase/geda-symbols.git
+[submodule "sender/hw/sym"]
+	path = sender/hw/sym
+	url = git@github.com:bhase/geda-symbols.git

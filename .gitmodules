@@ -7,3 +7,6 @@
 [submodule "opener/hw/pcb"]
 	path = opener/hw/pcb
 	url = https://bhase@github.com/bhase/pcb-footprints.git
+[submodule "sender/hw/pcb"]
+	path = sender/hw/pcb
+	url = https://bhase@github.com/bhase/pcb-footprints.git

@@ -4,3 +4,6 @@
 [submodule "sender/hw/sym"]
 	path = sender/hw/sym
 	url = git@github.com:bhase/geda-symbols.git
+[submodule "opener/hw/pcb"]
+	path = opener/hw/pcb
+	url = https://bhase@github.com/bhase/pcb-footprints.git

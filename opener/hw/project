@@ -1,5 +1,4 @@
 schematics garage_opener.sch
 output-name garage_board
 use-files
-elements-dir /home/benjo/geda/pcb-elements
-elements-dir /home/benjo/geda/pcb-elements/jcl
+elements-dir pcb
